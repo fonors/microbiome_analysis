@@ -10,5 +10,8 @@ Make `get_seqs.sh` executable and run it inside the folder where your `metadata.
 ***WARNING: You MUST have Docker, Java and Nextflow installed for this script to run or it will NOT work.***
 Make `pipeline_run.sh` executable and input the necessary paths. The pipeline should run considering your machine has enough RAM and CPU power.
 
+### Plot Creation
+This R script should generate all the additional plots. It is meant to be used with a slightly formatted beta_diversity file.
+
 ## Credits
 These scripts were developed by fonors, goncalof21, MadalenaFranco2 & scmdcunha.
